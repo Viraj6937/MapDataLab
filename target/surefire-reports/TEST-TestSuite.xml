@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="409.614" tests="8" errors="0" skipped="0" failures="5">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\dell\Desktop\SAMPLE WORKSPACE\Maven\target\test-classes;C:\Users\dell\Desktop\SAMPLE WORKSPACE\Maven\target\classes;C:\Users\dell\.m2\repository\org\apache\logging\log4j\log4j-api\2.13.3\log4j-api-2.13.3.jar;C:\Users\dell\.m2\repository\org\apache\logging\log4j\log4j-core\2.13.3\log4j-core-2.13.3.jar;C:\Users\dell\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\dell\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\dell\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\dell\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\dell\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\dell\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\dell\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\dell\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\dell\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\dell\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\dell\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\dell\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\dell\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\dell\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\dell\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\dell\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\dell\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\dell\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\dell\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\dell\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\dell\.m2\repository\org\testng\testng\7.0.0\testng-7.0.0.jar;C:\Users\dell\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\dell\.m2\repository\mysql\mysql-connector-java\8.0.19\mysql-connector-java-8.0.19.jar;C:\Users\dell\.m2\repository\com\google\protobuf\protobuf-java\3.6.1\protobuf-java-3.6.1.jar;C:\Users\dell\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\dell\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\dell\.m2\repository\com\aventstack\extentreports\4.1.5\extentreports-4.1.5.jar;C:\Users\dell\.m2\repository\org\freemarker\freemarker\2.3.29\freemarker-2.3.29.jar;C:\Users\dell\.m2\repository\org\apache\httpcomponents\httpclient\4.5.2\httpclient-4.5.2.jar;C:\Users\dell\.m2\repository\org\apache\httpcomponents\httpcore\4.4.4\httpcore-4.4.4.jar;C:\Users\dell\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\dell\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar;C:\Users\dell\.m2\repository\org\apache\httpcomponents\httpmime\4.5.2\httpmime-4.5.2.jar;C:\Users\dell\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\dell\.m2\repository\org\mongodb\mongodb-driver\3.12.0\mongodb-driver-3.12.0.jar;C:\Users\dell\.m2\repository\org\mongodb\mongodb-driver-core\3.12.0\mongodb-driver-core-3.12.0.jar;C:\Users\dell\.m2\repository\org\mongodb\bson\3.12.0\bson-3.12.0.jar;C:\Users\dell\.m2\repository\commons-io\commons-io\2.6\commons-io-2.6.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Java\jdk-11.0.2\bin"/>
+    <property name="sun.java.command" value="C:\Users\dell\AppData\Local\Temp\surefire15658273970546847013\surefirebooter2148934850829994143.jar C:\Users\dell\AppData\Local\Temp\surefire15658273970546847013 2020-05-31T23-42-43_913-jvmRun1 surefire13890613606586641414tmp surefire_09423857043831418976tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\dell\Desktop\SAMPLE WORKSPACE\Maven\target\test-classes;C:\Users\dell\Desktop\SAMPLE WORKSPACE\Maven\target\classes;C:\Users\dell\.m2\repository\org\apache\logging\log4j\log4j-api\2.13.3\log4j-api-2.13.3.jar;C:\Users\dell\.m2\repository\org\apache\logging\log4j\log4j-core\2.13.3\log4j-core-2.13.3.jar;C:\Users\dell\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\dell\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\dell\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\dell\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\dell\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\dell\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\dell\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\dell\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\dell\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\dell\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\dell\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\dell\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\dell\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\dell\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\dell\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\dell\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\dell\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\dell\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\dell\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\dell\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\dell\.m2\repository\org\testng\testng\7.0.0\testng-7.0.0.jar;C:\Users\dell\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\dell\.m2\repository\mysql\mysql-connector-java\8.0.19\mysql-connector-java-8.0.19.jar;C:\Users\dell\.m2\repository\com\google\protobuf\protobuf-java\3.6.1\protobuf-java-3.6.1.jar;C:\Users\dell\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\dell\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\dell\.m2\repository\com\aventstack\extentreports\4.1.5\extentreports-4.1.5.jar;C:\Users\dell\.m2\repository\org\freemarker\freemarker\2.3.29\freemarker-2.3.29.jar;C:\Users\dell\.m2\repository\org\apache\httpcomponents\httpclient\4.5.2\httpclient-4.5.2.jar;C:\Users\dell\.m2\repository\org\apache\httpcomponents\httpcore\4.4.4\httpcore-4.4.4.jar;C:\Users\dell\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\dell\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar;C:\Users\dell\.m2\repository\org\apache\httpcomponents\httpmime\4.5.2\httpmime-4.5.2.jar;C:\Users\dell\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\dell\.m2\repository\org\mongodb\mongodb-driver\3.12.0\mongodb-driver-3.12.0.jar;C:\Users\dell\.m2\repository\org\mongodb\mongodb-driver-core\3.12.0\mongodb-driver-core-3.12.0.jar;C:\Users\dell\.m2\repository\org\mongodb\bson\3.12.0\bson-3.12.0.jar;C:\Users\dell\.m2\repository\commons-io\commons-io\2.6\commons-io-2.6.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\dell"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2018-10-16"/>
+    <property name="java.home" value="C:\Java\jdk-11.0.2"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\dell\Desktop\SAMPLE WORKSPACE\Maven"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\dell\AppData\Local\Temp\surefire15658273970546847013\surefirebooter2148934850829994143.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.2+7-LTS"/>
+    <property name="user.name" value="dell"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="C:\Users\dell\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\dell\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.2"/>
+    <property name="user.dir" value="C:\Users\dell\Desktop\SAMPLE WORKSPACE\Maven"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Java\jdk-11.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\work\apache-maven-3.6.3/bin;C:\Java\jdk-11.0.2/bin;C:\Java\jdk-11.0.2/bin;C:\Program Files (x86)\Java\jdk-11.0.2\bin;C:\Users\dell\AppData\Local\Android\Sdk\tools\bin;C:\Users\dell\AppData\Local\Android\Sdk\tools;C:\work\apache-maven-3.6.3\bin;C:\Program Files\Git\cmd;C:\Program Files\apache-ant-1.9.15\bin;C:\Users\dell\AppData\Local\Android\Sdk\platforms;C:\Windows\System32;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.2+7-LTS"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="Demp.Maven.AppTest" time="0.007"/>
+  <testcase name="csvFile" classname="Demp.Maven.MapDataLabTest" time="117.873"/>
+  <testcase name="geojsonFile" classname="Demp.Maven.MapDataLabTest" time="67.584"/>
+  <testcase name="indiaSubDistrictFile" classname="Demp.Maven.MapDataLabTest" time="89.191">
+    <failure message="element click intercepted: Element &lt;button id=&quot;btnlayer1&quot; onclick=&quot;uploadclassbtn(this,&apos;rgtwwxkcrq&apos;,&apos;File1&apos;)&quot; class=&quot;btn layer_in_button ClassificationBtn&quot; data-toggle=&quot;modal&quot; data-target=&quot;#exampleModal&quot; data-placement=&quot;bottom&quot; title=&quot;Classify Layer&quot; style=&quot;margin-right: 5%;&quot;&gt;...&lt;/button&gt; is not clickable at point (1171, 176). Other element would receive the click: &lt;div class=&quot;modal fade show&quot; id=&quot;exampleModal&quot; tabindex=&quot;-1&quot; role=&quot;dialog&quot; aria-labelledby=&quot;exampleModalLabel&quot; aria-modal=&quot;true&quot; style=&quot;padding-right: 17px; display: block;&quot;&gt;...&lt;/div&gt;&#10;  (Session info: chrome=83.0.4103.61)&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;DESKTOP-K0SRPQN&apos;, ip: &apos;192.168.87.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;11.0.2&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:6631}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}&#10;Session ID: af71b2297375df393589d9b54b07bdd2" type="org.openqa.selenium.ElementClickInterceptedException"><![CDATA[org.openqa.selenium.ElementClickInterceptedException: 
+element click intercepted: Element <button id="btnlayer1" onclick="uploadclassbtn(this,'rgtwwxkcrq','File1')" class="btn layer_in_button ClassificationBtn" data-toggle="modal" data-target="#exampleModal" data-placement="bottom" title="Classify Layer" style="margin-right: 5%;">...</button> is not clickable at point (1171, 176). Other element would receive the click: <div class="modal fade show" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-modal="true" style="padding-right: 17px; display: block;">...</div>
+  (Session info: chrome=83.0.4103.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-K0SRPQN', ip: '192.168.87.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:6631}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: af71b2297375df393589d9b54b07bdd2
+	at Demp.Maven.MapDataLabTest.indiaSubDistrictFile(MapDataLabTest.java:978)
+]]></failure>
+    <system-out><![CDATA[Map is selected succesfully
+Option Selected successfully isorg.openqa.selenium.support.ui.Select@5974b7e8
+clasification method is selected is 
+]]></system-out>
+  </testcase>
+  <testcase name="indianDistrictFile" classname="Demp.Maven.MapDataLabTest" time="10.22">
+    <failure message="Expected condition failed: waiting for presence of element located by: By.xpath: //a[@href=&apos;login.php&apos;] (tried for 10 second(s) with 500 milliseconds interval)" type="org.openqa.selenium.TimeoutException">org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //a[@href='login.php'] (tried for 10 second(s) with 500 milliseconds interval)
+	at Demp.Maven.MapDataLabTest.indianDistrictFile(MapDataLabTest.java:359)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='login.php']"}
+  (Session info: chrome=83.0.4103.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-K0SRPQN', ip: '192.168.87.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:6631}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: af71b2297375df393589d9b54b07bdd2
+*** Element info: {Using=xpath, value=//a[@href='login.php']}
+	at Demp.Maven.MapDataLabTest.indianDistrictFile(MapDataLabTest.java:359)
+</failure>
+  </testcase>
+  <testcase name="indianStateFile" classname="Demp.Maven.MapDataLabTest" time="10.134">
+    <failure message="Expected condition failed: waiting for presence of element located by: By.xpath: //a[@href=&apos;login.php&apos;] (tried for 10 second(s) with 500 milliseconds interval)" type="org.openqa.selenium.TimeoutException">org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //a[@href='login.php'] (tried for 10 second(s) with 500 milliseconds interval)
+	at Demp.Maven.MapDataLabTest.indianStateFile(MapDataLabTest.java:594)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='login.php']"}
+  (Session info: chrome=83.0.4103.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-K0SRPQN', ip: '192.168.87.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:6631}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: af71b2297375df393589d9b54b07bdd2
+*** Element info: {Using=xpath, value=//a[@href='login.php']}
+	at Demp.Maven.MapDataLabTest.indianStateFile(MapDataLabTest.java:594)
+</failure>
+  </testcase>
+  <testcase name="pincodeFile" classname="Demp.Maven.MapDataLabTest" time="10.043">
+    <failure message="Expected condition failed: waiting for presence of element located by: By.xpath: //a[@href=&apos;login.php&apos;] (tried for 10 second(s) with 500 milliseconds interval)" type="org.openqa.selenium.TimeoutException">org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //a[@href='login.php'] (tried for 10 second(s) with 500 milliseconds interval)
+	at Demp.Maven.MapDataLabTest.pincodeFile(MapDataLabTest.java:1061)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='login.php']"}
+  (Session info: chrome=83.0.4103.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-K0SRPQN', ip: '192.168.87.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:6631}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: af71b2297375df393589d9b54b07bdd2
+*** Element info: {Using=xpath, value=//a[@href='login.php']}
+	at Demp.Maven.MapDataLabTest.pincodeFile(MapDataLabTest.java:1061)
+</failure>
+  </testcase>
+  <testcase name="shapeFile" classname="Demp.Maven.MapDataLabTest" time="10.034">
+    <failure message="Expected condition failed: waiting for presence of element located by: By.xpath: //a[@href=&apos;login.php&apos;] (tried for 10 second(s) with 500 milliseconds interval)" type="org.openqa.selenium.TimeoutException">org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //a[@href='login.php'] (tried for 10 second(s) with 500 milliseconds interval)
+	at Demp.Maven.MapDataLabTest.shapeFile(MapDataLabTest.java:1539)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='login.php']"}
+  (Session info: chrome=83.0.4103.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-K0SRPQN', ip: '192.168.87.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:6631}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: af71b2297375df393589d9b54b07bdd2
+*** Element info: {Using=xpath, value=//a[@href='login.php']}
+	at Demp.Maven.MapDataLabTest.shapeFile(MapDataLabTest.java:1539)
+</failure>
+  </testcase>
+</testsuite>

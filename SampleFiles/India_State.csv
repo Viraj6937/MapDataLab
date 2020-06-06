@@ -1,0 +1,37 @@
+FID,COUNTRY,STATE_NAME,STATE_CODE
+0,India,NCT of Delhi,07
+1,India,Punjab,03
+2,India,Himachal Pradesh,02
+3,India,Uttarakhand,05
+4,India,Haryana,06
+5,India,Rajasthan,08
+6,India,Puducherry,34
+7,India,Uttar Pradesh,09
+8,India,Bihar,10
+9,India,Sikkim,11
+10,India,Arunachal Pradesh,12
+11,India,Assam,18
+12,India,Manipur,14
+13,India,Nagaland,13
+14,India,Meghalaya,17
+15,India,Mizoram,15
+16,India,Tripura,16
+17,India,West Bengal,19
+18,India,Jharkhand,20
+19,India,Odisha,21
+20,India,Chhattisgarh,22
+21,India,Madhya Pradesh,23
+22,India,Chandigarh,04
+23,India,Gujarat,24
+24,India,Maharashtra,27
+25,India,Andhra Pradesh,28
+26,India,Karnataka,29
+27,India,Lakshadweep,31
+28,India,Tamil Nadu,33
+29,India,Goa,30
+30,India,Kerala,32
+31,India,Andaman & Nicobar Islands,35
+32,India,Daman and Diu,25
+33,India,Jammu and Kashmir,01
+34,India,Dadra and Nagar Haveli,26
+35,India,Telangana,36

@@ -1,0 +1,200 @@
+12:01:24.535 [main] DEBUG resources.Base - File Name is entered
+12:01:25.030 [main] DEBUG resources.Base - File is been browsed
+12:01:27.486 [main] DEBUG resources.Base - Submit Button is been Clicked
+12:01:27.685 [main] DEBUG resources.Base - File to be uploading Ok button is been clicked
+12:01:31.534 [main] DEBUG resources.Base - File been uploaded sucessfully..Ok button is been Clicked
+12:01:31.534 [main] INFO  resources.Base - Pincode  File is been Uploaded Successfully
+12:06:10.187 [main] INFO  resources.Base - Driver is intialized successfully
+12:06:10.362 [main] INFO  resources.Base - all cookies are cleared
+12:07:07.602 [main] DEBUG resources.Base - Navigating to MapDatalab is been clicked 
+12:07:07.609 [main] INFO  resources.Base - Mapdatalab sit is been successfully landed
+12:07:11.703 [main] INFO  resources.Base - window size is been maximized
+12:07:11.845 [main] INFO  resources.Base - site title is been retrieved
+12:07:29.053 [main] DEBUG resources.Base - Login/Registration link is been clicked
+12:07:51.721 [main] DEBUG resources.Base - Username is been entered
+12:07:52.803 [main] DEBUG resources.Base - Password is been entered
+12:07:53.151 [main] DEBUG resources.Base - Login Submit button is been clicked
+12:07:53.151 [main] INFO  resources.Base - login done sucessfully
+12:08:15.754 [main] DEBUG resources.Base - Map to perform operations is been clicked
+12:08:15.755 [main] INFO  resources.Base - Map is been selected sucessfully
+12:13:35.032 [main] INFO  resources.Base - Driver is intialized successfully
+12:13:35.181 [main] INFO  resources.Base - all cookies are cleared
+12:13:44.999 [main] DEBUG resources.Base - Navigating to MapDatalab is been clicked 
+12:13:45.027 [main] INFO  resources.Base - Mapdatalab sit is been successfully landed
+12:13:47.225 [main] INFO  resources.Base - window size is been maximized
+12:13:47.284 [main] INFO  resources.Base - site title is been retrieved
+12:13:50.017 [main] DEBUG resources.Base - Login/Registration link is been clicked
+12:14:02.175 [main] DEBUG resources.Base - Username is been entered
+12:14:02.620 [main] DEBUG resources.Base - Password is been entered
+12:14:02.705 [main] DEBUG resources.Base - Login Submit button is been clicked
+12:14:02.705 [main] INFO  resources.Base - login done sucessfully
+12:14:14.063 [main] DEBUG resources.Base - Map to perform operations is been clicked
+12:14:14.063 [main] INFO  resources.Base - Map is been selected sucessfully
+12:14:26.523 [main] DEBUG resources.Base - userTab button is been clicked
+12:14:28.042 [main] DEBUG resources.Base - + New user Layer Menu button is been clicked
+12:14:29.521 [main] DEBUG resources.Base - FileFormat button is been clicked
+12:14:29.914 [main] DEBUG resources.Base - DataScope is been selected
+12:14:30.405 [main] DEBUG resources.Base - File Name is entered
+12:14:30.734 [main] DEBUG resources.Base - File is been browsed
+12:14:33.154 [main] DEBUG resources.Base - Submit Button is been Clicked
+12:14:37.306 [main] DEBUG resources.Base - File to be uploading Ok button is been clicked
+12:19:06.928 [main] INFO  resources.Base - Driver is intialized successfully
+12:19:08.434 [main] INFO  resources.Base - all cookies are cleared
+12:19:15.958 [main] DEBUG resources.Base - Navigating to MapDatalab is been clicked 
+12:19:15.962 [main] INFO  resources.Base - Mapdatalab sit is been successfully landed
+12:19:20.068 [main] INFO  resources.Base - window size is been maximized
+12:19:20.098 [main] INFO  resources.Base - site title is been retrieved
+12:20:05.334 [main] DEBUG resources.Base - Login/Registration link is been clicked
+12:20:12.708 [main] DEBUG resources.Base - Username is been entered
+12:20:13.190 [main] DEBUG resources.Base - Password is been entered
+12:20:15.991 [main] DEBUG resources.Base - Login Submit button is been clicked
+12:20:15.992 [main] INFO  resources.Base - login done sucessfully
+12:20:22.317 [main] DEBUG resources.Base - Map to perform operations is been clicked
+12:20:22.317 [main] INFO  resources.Base - Map is been selected sucessfully
+12:20:48.369 [main] INFO  resources.Base - Driver is intialized successfully
+12:20:48.926 [main] INFO  resources.Base - all cookies are cleared
+12:20:54.885 [main] DEBUG resources.Base - Navigating to MapDatalab is been clicked 
+12:20:54.891 [main] INFO  resources.Base - Mapdatalab sit is been successfully landed
+12:20:57.277 [main] INFO  resources.Base - window size is been maximized
+12:20:57.299 [main] INFO  resources.Base - site title is been retrieved
+12:20:58.640 [main] DEBUG resources.Base - Login/Registration link is been clicked
+12:21:00.286 [main] DEBUG resources.Base - Username is been entered
+12:21:00.665 [main] DEBUG resources.Base - Password is been entered
+12:21:00.749 [main] DEBUG resources.Base - Login Submit button is been clicked
+12:21:00.750 [main] INFO  resources.Base - login done sucessfully
+12:21:14.302 [main] DEBUG resources.Base - Map to perform operations is been clicked
+12:21:14.302 [main] INFO  resources.Base - Map is been selected sucessfully
+12:21:28.548 [main] DEBUG resources.Base - userTab button is been clicked
+12:21:30.068 [main] DEBUG resources.Base - + New user Layer Menu button is been clicked
+12:21:30.615 [main] DEBUG resources.Base - FileFormat button is been clicked
+12:21:30.810 [main] DEBUG resources.Base - DataScope is been selected
+12:21:31.188 [main] DEBUG resources.Base - File Name is entered
+12:21:31.554 [main] DEBUG resources.Base - File is been browsed
+12:21:34.132 [main] DEBUG resources.Base - Submit Button is been Clicked
+12:21:34.281 [main] DEBUG resources.Base - File to be uploading Ok button is been clicked
+12:22:40.235 [main] INFO  resources.Base - Driver is intialized successfully
+12:22:40.272 [main] INFO  resources.Base - all cookies are cleared
+12:22:47.474 [main] DEBUG resources.Base - Navigating to MapDatalab is been clicked 
+12:22:47.480 [main] INFO  resources.Base - Mapdatalab sit is been successfully landed
+12:22:55.302 [main] INFO  resources.Base - window size is been maximized
+12:22:55.329 [main] INFO  resources.Base - site title is been retrieved
+12:22:57.272 [main] DEBUG resources.Base - Login/Registration link is been clicked
+12:22:59.614 [main] DEBUG resources.Base - Username is been entered
+12:22:59.868 [main] DEBUG resources.Base - Password is been entered
+12:22:59.961 [main] DEBUG resources.Base - Login Submit button is been clicked
+12:22:59.961 [main] INFO  resources.Base - login done sucessfully
+12:23:12.284 [main] DEBUG resources.Base - Map to perform operations is been clicked
+12:23:12.284 [main] INFO  resources.Base - Map is been selected sucessfully
+12:23:35.380 [main] DEBUG resources.Base - userTab button is been clicked
+12:23:35.599 [main] DEBUG resources.Base - + New user Layer Menu button is been clicked
+12:23:36.253 [main] DEBUG resources.Base - FileFormat button is been clicked
+12:23:36.903 [main] DEBUG resources.Base - DataScope is been selected
+12:23:40.893 [main] DEBUG resources.Base - File Name is entered
+12:23:41.185 [main] DEBUG resources.Base - File is been browsed
+12:23:44.060 [main] DEBUG resources.Base - Submit Button is been Clicked
+12:23:49.307 [main] DEBUG resources.Base - File to be uploading Ok button is been clicked
+12:29:18.344 [main] DEBUG resources.Base - File been uploaded sucessfully..Ok button is been Clicked
+12:29:18.345 [main] INFO  resources.Base - Pincode  File is been Uploaded Successfully
+12:29:24.006 [main] DEBUG resources.Base - Classify 1 Button is been Clicked
+12:29:27.814 [main] DEBUG resources.Base - Classificy DropDown options are selected
+12:29:27.987 [main] DEBUG resources.Base - Classify Circle is been selected
+12:29:30.102 [main] DEBUG resources.Base - Classify Submit button is been Clicked
+12:29:30.102 [main] INFO  resources.Base - Quantitative Data is been Classified Sucessfully
+12:29:33.154 [main] DEBUG resources.Base - Classify Button is been Clicked
+12:29:38.297 [main] DEBUG resources.Base - Qualitative Data radio button and Dropdown options are been selected
+12:29:40.387 [main] DEBUG resources.Base - Qualitative Submit Button is been clicked
+12:29:40.387 [main] INFO  resources.Base - Qualitative Data is been Classified Sucessfully
+12:29:51.939 [main] DEBUG resources.Base - File Layer Delete button is been clicked
+12:29:52.434 [main] DEBUG resources.Base - File to delete ..OK button is been clicked
+12:29:54.526 [main] DEBUG resources.Base - File is been deleted.. Ok button is been clicked
+12:29:54.526 [main] INFO  resources.Base - File is been deleted sucessfully
+12:29:59.415 [main] DEBUG resources.Base - Logout button is been Clicked
+12:29:59.416 [main] INFO  resources.Base - Logout been deleted Successfully
+12:34:57.216 [main] INFO  resources.Base - Driver is intialized successfully
+12:34:57.336 [main] INFO  resources.Base - all cookies are cleared
+12:35:22.096 [main] DEBUG resources.Base - Navigating to MapDatalab is been clicked 
+12:35:22.167 [main] INFO  resources.Base - Mapdatalab sit is been successfully landed
+12:35:24.976 [main] INFO  resources.Base - window size is been maximized
+12:35:25.048 [main] INFO  resources.Base - site title is been retrieved
+12:35:39.130 [main] DEBUG resources.Base - Login/Registration link is been clicked
+12:35:43.775 [main] DEBUG resources.Base - Username is been entered
+12:35:44.331 [main] DEBUG resources.Base - Password is been entered
+12:35:44.426 [main] DEBUG resources.Base - Login Submit button is been clicked
+12:35:44.426 [main] INFO  resources.Base - login done sucessfully
+12:35:53.155 [main] DEBUG resources.Base - Map to perform operations is been clicked
+12:35:53.155 [main] INFO  resources.Base - Map is been selected sucessfully
+12:36:06.588 [main] DEBUG resources.Base - userTab button is been clicked
+12:36:08.033 [main] DEBUG resources.Base - + New user Layer Menu button is been clicked
+12:36:09.524 [main] DEBUG resources.Base - FileFormat button is been clicked
+12:36:10.251 [main] DEBUG resources.Base - DataScope is been selected
+12:36:11.390 [main] DEBUG resources.Base - File Name is entered
+12:37:46.258 [main] INFO  resources.Base - Driver is intialized successfully
+12:37:46.657 [main] INFO  resources.Base - all cookies are cleared
+12:37:54.988 [main] DEBUG resources.Base - Navigating to MapDatalab is been clicked 
+12:37:55.008 [main] INFO  resources.Base - Mapdatalab sit is been successfully landed
+12:37:58.125 [main] INFO  resources.Base - window size is been maximized
+12:37:58.141 [main] INFO  resources.Base - site title is been retrieved
+12:38:13.146 [main] DEBUG resources.Base - Login/Registration link is been clicked
+12:38:19.091 [main] DEBUG resources.Base - Username is been entered
+12:38:19.314 [main] DEBUG resources.Base - Password is been entered
+12:38:20.224 [main] DEBUG resources.Base - Login Submit button is been clicked
+12:38:20.226 [main] INFO  resources.Base - login done sucessfully
+12:38:26.299 [main] DEBUG resources.Base - Map to perform operations is been clicked
+12:38:26.300 [main] INFO  resources.Base - Map is been selected sucessfully
+12:39:28.903 [main] INFO  resources.Base - Driver is intialized successfully
+12:39:29.050 [main] INFO  resources.Base - all cookies are cleared
+12:39:45.854 [main] DEBUG resources.Base - Navigating to MapDatalab is been clicked 
+12:39:45.860 [main] INFO  resources.Base - Mapdatalab sit is been successfully landed
+12:40:40.452 [main] INFO  resources.Base - window size is been maximized
+12:40:40.566 [main] INFO  resources.Base - site title is been retrieved
+12:40:52.975 [main] DEBUG resources.Base - Login/Registration link is been clicked
+12:41:00.283 [main] DEBUG resources.Base - Username is been entered
+12:41:00.780 [main] DEBUG resources.Base - Password is been entered
+12:41:01.092 [main] DEBUG resources.Base - Login Submit button is been clicked
+12:41:01.092 [main] INFO  resources.Base - login done sucessfully
+12:41:13.639 [main] DEBUG resources.Base - Map to perform operations is been clicked
+12:41:13.639 [main] INFO  resources.Base - Map is been selected sucessfully
+12:43:34.286 [main] INFO  resources.Base - Driver is intialized successfully
+12:43:34.369 [main] INFO  resources.Base - all cookies are cleared
+12:43:46.854 [main] DEBUG resources.Base - Navigating to MapDatalab is been clicked 
+12:43:46.860 [main] INFO  resources.Base - Mapdatalab sit is been successfully landed
+12:43:56.452 [main] INFO  resources.Base - window size is been maximized
+12:43:56.553 [main] INFO  resources.Base - site title is been retrieved
+12:43:59.057 [main] DEBUG resources.Base - Login/Registration link is been clicked
+12:44:02.767 [main] DEBUG resources.Base - Username is been entered
+12:44:03.058 [main] DEBUG resources.Base - Password is been entered
+12:44:03.149 [main] DEBUG resources.Base - Login Submit button is been clicked
+12:44:03.150 [main] INFO  resources.Base - login done sucessfully
+12:44:14.855 [main] DEBUG resources.Base - Map to perform operations is been clicked
+12:44:14.855 [main] INFO  resources.Base - Map is been selected sucessfully
+12:44:28.080 [main] DEBUG resources.Base - userTab button is been clicked
+12:44:31.027 [main] DEBUG resources.Base - + New user Layer Menu button is been clicked
+12:44:32.653 [main] DEBUG resources.Base - FileFormat button is been clicked
+12:44:33.392 [main] DEBUG resources.Base - DataScope is been selected
+12:44:36.006 [main] DEBUG resources.Base - File Name is entered
+12:48:33.079 [main] INFO  resources.Base - Driver is intialized successfully
+12:48:33.179 [main] INFO  resources.Base - all cookies are cleared
+12:48:39.202 [main] DEBUG resources.Base - Navigating to MapDatalab is been clicked 
+12:48:39.208 [main] INFO  resources.Base - Mapdatalab sit is been successfully landed
+12:48:41.394 [main] INFO  resources.Base - window size is been maximized
+12:48:41.409 [main] INFO  resources.Base - site title is been retrieved
+12:48:44.400 [main] DEBUG resources.Base - Login/Registration link is been clicked
+13:08:21.373 [main] INFO  resources.Base - Driver is intialized successfully
+13:08:21.516 [main] INFO  resources.Base - all cookies are cleared
+13:08:29.995 [main] DEBUG resources.Base - Navigating to MapDatalab is been clicked 
+13:08:30.033 [main] INFO  resources.Base - Mapdatalab sit is been successfully landed
+13:08:33.837 [main] INFO  resources.Base - window size is been maximized
+13:08:33.864 [main] INFO  resources.Base - site title is been retrieved
+13:08:37.146 [main] DEBUG resources.Base - Login/Registration link is been clicked
+13:08:44.385 [main] DEBUG resources.Base - Username is been entered
+13:08:44.731 [main] DEBUG resources.Base - Password is been entered
+13:08:44.846 [main] DEBUG resources.Base - Login Submit button is been clicked
+13:08:44.846 [main] INFO  resources.Base - login done sucessfully
+13:08:56.967 [main] DEBUG resources.Base - Map to perform operations is been clicked
+13:08:56.967 [main] INFO  resources.Base - Map is been selected sucessfully
+13:09:13.284 [main] DEBUG resources.Base - userTab button is been clicked
+13:09:13.885 [main] DEBUG resources.Base - + New user Layer Menu button is been clicked
+13:09:15.232 [main] DEBUG resources.Base - FileFormat button is been clicked
+13:09:16.611 [main] DEBUG resources.Base - DataScope is been selected
+13:09:18.456 [main] DEBUG resources.Base - File Name is entered
+13:10:32.612 [main] INFO  resources.Base - Driver is intialized successfully

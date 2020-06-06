@@ -1,0 +1,191 @@
+15:39:09.740 [main] DEBUG resources.Base - username is been entered
+15:39:11.451 [main] DEBUG resources.Base - password is been entered
+15:39:13.689 [main] DEBUG resources.Base - login submit button is been clicked
+15:39:13.690 [main] INFO  resources.Base - login done sucessfully
+15:39:18.792 [main] DEBUG resources.Base - Map is been seleceted
+15:39:18.792 [main] INFO  resources.Base - Map is selected sucessfully
+15:39:31.060 [main] DEBUG resources.Base - User Data Tab button is been clicked
+15:39:31.186 [main] DEBUG resources.Base - + New User Layer button is been clicked
+15:39:31.276 [main] DEBUG resources.Base - File format is been selected
+15:39:31.503 [main] DEBUG resources.Base - File Name is been entered
+15:39:33.607 [main] DEBUG resources.Base - Shape file been browsed and selected
+15:39:33.744 [main] DEBUG resources.Base - Submit button for file upload is been Clicked
+15:39:36.027 [main] DEBUG resources.Base - first Pop-Up after uploading file ....Ok button  is been clicked
+15:39:40.194 [main] DEBUG resources.Base - Second Pop-Up after uploading file ....Ok button is been clicked
+15:39:43.018 [main] DEBUG resources.Base - Classify tab button is been clicked
+15:39:48.176 [main] DEBUG resources.Base - Classification method drop downs are selected
+15:39:48.340 [main] DEBUG resources.Base - Classify circle option is been selected
+15:39:50.543 [main] DEBUG resources.Base - Classify Button is been clicked
+15:39:50.543 [main] DEBUG resources.Base - Quantitative Data is been classified sucessfully
+15:39:52.914 [main] DEBUG resources.Base - Clasify Tab button is been clicked
+15:39:59.628 [main] DEBUG resources.Base - Classify options from drop down is been selected
+15:40:00.787 [main] DEBUG resources.Base - Classify button is been clicked
+15:40:00.788 [main] INFO  resources.Base - Qualitative Data of Shape file is been classified sucessfully
+23:21:53.016 [main] INFO  resources.Base - Driver is intialized successfully
+23:21:53.291 [main] INFO  resources.Base - all cookies are cleared
+23:22:27.011 [main] DEBUG resources.Base - Navigating to MapDatalab is been clicked 
+23:22:27.017 [main] INFO  resources.Base - Mapdatalab sit is been successfully landed
+23:22:30.098 [main] INFO  resources.Base - window size is been maximized
+23:22:35.434 [main] INFO  resources.Base - site title is been retrieved
+23:22:39.708 [main] DEBUG resources.Base - Loging/Registration link is been clicked
+23:29:01.279 [main] INFO  resources.Base - Driver is intialized successfully
+23:29:01.752 [main] INFO  resources.Base - all cookies are cleared
+23:29:43.635 [main] DEBUG resources.Base - Navigating to MapDatalab is been clicked 
+23:29:43.641 [main] INFO  resources.Base - Mapdatalab sit is been successfully landed
+23:29:46.144 [main] INFO  resources.Base - window size is been maximized
+23:29:46.152 [main] INFO  resources.Base - site title is been retrieved
+23:29:49.932 [main] DEBUG resources.Base - Loging/Registration link is been clicked
+23:29:58.576 [main] DEBUG resources.Base - username is been entered
+23:29:59.259 [main] DEBUG resources.Base - password is been entered
+23:30:03.918 [main] DEBUG resources.Base - login submit button is been clicked
+23:30:03.919 [main] INFO  resources.Base - login done sucessfully
+23:30:20.143 [main] DEBUG resources.Base - Map is been seleceted
+23:30:20.143 [main] INFO  resources.Base - Map is selected sucessfully
+23:30:50.618 [main] DEBUG resources.Base - User Tab button is been clicked
+23:30:52.351 [main] DEBUG resources.Base - + New User Layer button is been clicked
+23:30:56.607 [main] DEBUG resources.Base - File format is been selected
+23:30:58.606 [main] DEBUG resources.Base - File Name is been entered
+23:30:58.999 [main] DEBUG resources.Base - Csv file to be uploaded is been browsed
+23:31:02.327 [main] DEBUG resources.Base - Submit button is been clicked
+23:31:03.983 [main] DEBUG resources.Base - First Pop-up after submit, ..OK button is been clicked
+23:31:08.150 [main] DEBUG resources.Base - Second Pop-up after submit,...OK button is been clicked
+23:31:08.151 [main] INFO  resources.Base - Csv File is been uploaded sucessfully
+23:31:12.317 [main] DEBUG resources.Base - Classify tab button is been clicked
+23:31:19.193 [main] DEBUG resources.Base - Classification method drop downs are selected
+23:31:19.520 [main] DEBUG resources.Base - Classify circle option is been selected
+23:31:21.682 [main] DEBUG resources.Base - Classify Button is been clicked
+23:31:21.683 [main] DEBUG resources.Base - Quantitative Data is been classified sucessfully
+23:31:23.831 [main] DEBUG resources.Base - Clasify Tab button is been clicked
+23:31:30.424 [main] DEBUG resources.Base - Classify options from drop down is been selected
+23:31:31.544 [main] DEBUG resources.Base - Classify button is been clicked
+23:31:31.545 [main] INFO  resources.Base - Qualitative Data of Csv file is been classified sucessfully
+23:32:02.046 [main] DEBUG resources.Base - Login/Registration link is been clicked
+23:32:04.395 [main] DEBUG resources.Base - Username is been entered
+23:32:04.808 [main] DEBUG resources.Base - Password is been entered
+23:32:04.909 [main] DEBUG resources.Base - Login Submit button is been clicked
+23:32:04.909 [main] INFO  resources.Base - login done sucessfully
+23:32:11.465 [main] DEBUG resources.Base - Map to perform operations is been clicked
+23:32:11.465 [main] INFO  resources.Base - Map is been selected sucessfully
+23:32:24.714 [main] DEBUG resources.Base - userTab button is been clicked
+23:32:25.391 [main] DEBUG resources.Base - + New user Layer Menu button is been clicked
+23:32:26.208 [main] DEBUG resources.Base - FileFormat button is been clicked
+23:32:28.422 [main] DEBUG resources.Base - File Name is entered
+23:32:28.967 [main] DEBUG resources.Base - File is been browsed
+23:32:31.057 [main] DEBUG resources.Base - Submit Button is been Clicked
+23:32:34.066 [main] DEBUG resources.Base - File to be uploading Ok button is been clicked
+23:32:39.363 [main] DEBUG resources.Base - File been uploaded sucessfully..Ok button is been Clicked
+23:32:39.363 [main] INFO  resources.Base - Geojson File is been Uploaded Successfully
+23:32:41.991 [main] DEBUG resources.Base - Classify 1 Button is been Clicked
+23:32:45.332 [main] DEBUG resources.Base - Classificy DropDown options are selected
+23:32:45.400 [main] DEBUG resources.Base - Classify Circle is been selected
+23:32:47.545 [main] DEBUG resources.Base - Classify Submit button is been Clicked
+23:32:47.545 [main] INFO  resources.Base - Quantitative Data is been Classified Sucessfully
+23:32:49.649 [main] DEBUG resources.Base - Classify Button is been Clicked
+23:32:54.657 [main] DEBUG resources.Base - Qualitative Data radio button and Dropdown options are been selected
+23:32:56.764 [main] DEBUG resources.Base - Qualitative Submit Button is been clicked
+23:32:56.764 [main] INFO  resources.Base - Qualitative Data is been Classified Sucessfully
+23:32:58.899 [main] DEBUG resources.Base - File Layer Delete button is been clicked
+23:32:59.064 [main] DEBUG resources.Base - File to delete ..OK button is been clicked
+23:33:01.157 [main] DEBUG resources.Base - File is been deleted.. Ok button is been clicked
+23:33:01.157 [main] INFO  resources.Base - File is been deleted sucessfully
+23:33:04.951 [main] DEBUG resources.Base - Logout button is been Clicked
+23:33:04.951 [main] INFO  resources.Base -  your Logout Successfully
+23:33:06.933 [main] DEBUG resources.Base - Login/Registration link is been clicked
+23:33:07.542 [main] DEBUG resources.Base - Username is been entered
+23:33:07.951 [main] DEBUG resources.Base - Password is been entered
+23:33:08.064 [main] DEBUG resources.Base - Login Submit button is been clicked
+23:33:08.065 [main] INFO  resources.Base - login done sucessfully
+23:33:14.480 [main] DEBUG resources.Base - Map to perform operations is been clicked
+23:33:14.481 [main] INFO  resources.Base - Map is been selected sucessfully
+23:33:27.968 [main] DEBUG resources.Base - userTab button is been clicked
+23:33:28.986 [main] DEBUG resources.Base - + New user Layer Menu button is been clicked
+23:33:29.711 [main] DEBUG resources.Base - FileFormat button is been clicked
+23:33:29.996 [main] DEBUG resources.Base - DataScope is been selected
+23:33:30.263 [main] DEBUG resources.Base - File Name is entered
+23:33:30.370 [main] DEBUG resources.Base - File is been browsed
+23:33:32.499 [main] DEBUG resources.Base - Submit Button is been Clicked
+23:33:33.750 [main] DEBUG resources.Base - File to be uploading Ok button is been clicked
+23:33:38.786 [main] DEBUG resources.Base - File been uploaded sucessfully..Ok button is been Clicked
+23:33:38.786 [main] INFO  resources.Base - Indian State  File is been Uploaded Successfully
+23:33:42.348 [main] DEBUG resources.Base - Classify 1 Button is been Clicked
+23:33:49.453 [main] DEBUG resources.Base - Classificy DropDown options are selected
+23:33:49.716 [main] DEBUG resources.Base - Classify Circle is been selected
+23:33:51.968 [main] DEBUG resources.Base - Classify Submit button is been Clicked
+23:33:51.968 [main] INFO  resources.Base - Quantitative Data is been Classified Sucessfully
+23:33:56.381 [main] DEBUG resources.Base - Classify Button is been Clicked
+23:34:01.314 [main] DEBUG resources.Base - Qualitative Data radio button and Dropdown options are been selected
+23:34:03.415 [main] DEBUG resources.Base - Qualitative Submit Button is been clicked
+23:34:03.415 [main] INFO  resources.Base - Qualitative Data is been Classified Sucessfully
+23:34:05.634 [main] DEBUG resources.Base - File Layer Delete button is been clicked
+23:34:05.835 [main] DEBUG resources.Base - File to delete ..OK button is been clicked
+23:34:07.982 [main] DEBUG resources.Base - File is been deleted.. Ok button is been clicked
+23:34:07.983 [main] INFO  resources.Base - File is been deleted sucessfully
+23:34:19.208 [main] DEBUG resources.Base - Logout button is been Clicked
+23:34:19.209 [main] INFO  resources.Base - Logout been deleted Successfully
+23:34:20.727 [main] DEBUG resources.Base - Login/Registration link is been clicked
+23:34:21.730 [main] DEBUG resources.Base - Username is been entered
+23:34:22.020 [main] DEBUG resources.Base - Password is been entered
+23:34:22.107 [main] DEBUG resources.Base - Login Submit button is been clicked
+23:34:22.107 [main] INFO  resources.Base - login done sucessfully
+23:34:30.115 [main] DEBUG resources.Base - Map to perform operations is been clicked
+23:34:30.115 [main] INFO  resources.Base - Map is been selected sucessfully
+23:34:42.592 [main] DEBUG resources.Base - userTab button is been clicked
+23:34:43.713 [main] DEBUG resources.Base - + New user Layer Menu button is been clicked
+23:34:44.614 [main] DEBUG resources.Base - FileFormat buttonSSS is been clicked
+23:34:45.618 [main] DEBUG resources.Base - DataScope is been selected
+23:34:46.976 [main] DEBUG resources.Base - File Name is entered
+23:34:47.264 [main] DEBUG resources.Base - File is been browsed
+23:34:49.439 [main] DEBUG resources.Base - Submit Button is been Clicked
+23:34:50.735 [main] DEBUG resources.Base - File to be uploading Ok button is been clicked
+23:34:57.066 [main] DEBUG resources.Base -  Indian District File been uploaded sucessfully..Ok button is been Clicked
+23:34:57.066 [main] INFO  resources.Base - Indian District File is been Uploaded Successfully
+23:34:59.216 [main] DEBUG resources.Base - Classify 1 Button is been Clicked
+23:35:02.224 [main] DEBUG resources.Base - Classificy DropDown options are selected
+23:35:02.379 [main] DEBUG resources.Base - Classify Circle is been selected
+23:35:04.666 [main] DEBUG resources.Base - Classify Submit button is been Clicked
+23:35:04.666 [main] INFO  resources.Base - Quantitative Data is been Classified Sucessfully
+23:35:06.851 [main] DEBUG resources.Base - Classify Button is been Clicked
+23:35:11.932 [main] DEBUG resources.Base - Qualitative Data radio button and Dropdown options are been selected
+23:35:14.002 [main] DEBUG resources.Base - Qualitative Submit Button is been clicked
+23:35:14.002 [main] INFO  resources.Base - Qualitative Data is been Classified Sucessfully
+23:35:16.177 [main] DEBUG resources.Base - File Layer Delete button is been clicked
+23:35:16.320 [main] DEBUG resources.Base - File to delete ..OK button is been clicked
+23:35:18.409 [main] DEBUG resources.Base - File is been deleted.. Ok button is been clicked
+23:35:18.409 [main] INFO  resources.Base - File is been deleted sucessfully
+23:35:21.694 [main] DEBUG resources.Base - Logout button is been Clicked
+23:35:21.695 [main] INFO  resources.Base -  your Logout Successfully
+23:35:24.761 [main] DEBUG resources.Base - Login/Registration link is been clicked
+23:35:25.310 [main] DEBUG resources.Base - Username is been entered
+23:35:25.665 [main] DEBUG resources.Base - Password is been entered
+23:35:25.765 [main] DEBUG resources.Base - Login Submit button is been clicked
+23:35:25.766 [main] INFO  resources.Base - login done sucessfully
+23:35:31.559 [main] DEBUG resources.Base - Map to perform operations is been clicked
+23:35:31.559 [main] INFO  resources.Base - Map is been selected sucessfully
+23:35:44.028 [main] DEBUG resources.Base - userTab button is been clicked
+23:35:44.542 [main] DEBUG resources.Base - + New user Layer Menu button is been clicked
+23:35:44.864 [main] DEBUG resources.Base - FileFormat button is been clicked
+23:35:44.976 [main] DEBUG resources.Base - DataScope is been selected
+23:35:45.326 [main] DEBUG resources.Base - File Name is entered
+23:35:45.473 [main] DEBUG resources.Base - File is been browsed
+23:35:47.601 [main] DEBUG resources.Base - Submit Button is been Clicked
+23:35:48.433 [main] DEBUG resources.Base - File to be uploading Ok button is been clicked
+23:35:53.880 [main] DEBUG resources.Base - File been uploaded sucessfully..Ok button is been Clicked
+23:35:53.880 [main] INFO  resources.Base - Indian State  File is been Uploaded Successfully
+23:35:56.032 [main] DEBUG resources.Base - Classify 1 Button is been Clicked
+23:35:58.875 [main] DEBUG resources.Base - Classificy DropDown options are selected
+23:35:58.941 [main] DEBUG resources.Base - Classify Circle is been selected
+23:36:01.185 [main] DEBUG resources.Base - Classify Submit button is been Clicked
+23:36:01.185 [main] INFO  resources.Base - Quantitative Data is been Classified Sucessfully
+23:36:03.287 [main] DEBUG resources.Base - Classify Button is been Clicked
+23:36:08.313 [main] DEBUG resources.Base - Qualitative Data radio button and Dropdown options are been selected
+23:36:10.396 [main] DEBUG resources.Base - Qualitative Submit Button is been clicked
+23:36:10.397 [main] INFO  resources.Base - Qualitative Data is been Classified Sucessfully
+23:36:12.499 [main] DEBUG resources.Base - File Layer Delete button is been clicked
+23:36:12.686 [main] DEBUG resources.Base - File to delete ..OK button is been clicked
+23:36:14.765 [main] DEBUG resources.Base - File is been deleted.. Ok button is been clicked
+23:36:14.765 [main] INFO  resources.Base - File is been deleted sucessfully
+23:36:18.138 [main] DEBUG resources.Base - Logout button is been Clicked
+23:36:18.139 [main] INFO  resources.Base -  your been Logout Successfully
+23:36:19.748 [main] DEBUG resources.Base - Login/Registration link is been clicked
+23:36:20.218 [main] DEBUG resources.Base - Username is been entered
+23:36:20.425 [main] DEBUG resources.Base - Password is been entered
